@@ -4,3 +4,5 @@ Simply run streamlit run app.py. Either you can push it to streamlit community c
 Should work for python>=3.12.
 
 *Tested on mobile RTX 4060
+
+Tune flags in app.py (Will soon update explanations for flags)
